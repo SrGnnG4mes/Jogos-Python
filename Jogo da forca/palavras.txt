@@ -1,0 +1,20 @@
+# Tema: Animais
+gato
+cachorro
+elefante
+tigre
+panda
+
+# Tema: Frutas
+maçã
+banana
+laranja
+uva
+melancia
+
+# Tema: Países
+brasil
+canadá
+austrália
+japão
+nigéria
